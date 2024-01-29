@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* For Webkit Browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 7px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #facc15;
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #111;
+}
